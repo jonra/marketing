@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da7530f6-9ed7-4daf-9b58-4c0dfa308210" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dLnSwp9M8u1I26aFATcDZ4ObOa" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7530f6-9ed7-4daf-9b58-4c0dfa308210" name="Default Changelist" comment="" />
+      <created>1580378215296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580378215296</updated>
+      <workItem from="1580378217231" duration="584000" />
+      <workItem from="1581445576881" duration="1430000" />
+      <workItem from="1592213250045" duration="988000" />
+      <workItem from="1592309144467" duration="606000" />
+    </task>
+    <task id="LOCAL-00001" summary="ads">
+      <created>1580378304626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580378304626</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ads">
+      <created>1580378427606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580378427606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ads">
+      <created>1592213636164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592213636164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="ads" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="-991" key="CommitChangelistDialog2" timestamp="1592213636016">
+      <screen x="-1090" y="-1057" width="3840" height="1057" />
+    </state>
+    <state x="93" y="-991" key="CommitChangelistDialog2/-1090.-1057.3840.1057/0.23.1920.1112@-1090.-1057.3840.1057" timestamp="1592213636016" />
+    <state x="147" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1592213637529">
+      <screen x="-1090" y="-1057" width="3840" height="1057" />
+    </state>
+    <state x="147" y="-826" key="Vcs.Push.Dialog.v2/-1090.-1057.3840.1057/0.23.1920.1112@-1090.-1057.3840.1057" timestamp="1592213637529" />
+    <state x="338" y="-645" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592213581052">
+      <screen x="-1090" y="-1057" width="3840" height="1057" />
+    </state>
+    <state x="338" y="-645" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1090.-1057.3840.1057/0.23.1920.1112@-1090.-1057.3840.1057" timestamp="1592213581052" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
